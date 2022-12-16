@@ -4,7 +4,7 @@ Historian, self-taught web developer, Linux user since childhood, language enthu
 
 Ongoing projects:
 - Historia Quick Launcher (published)
-  - A browser plugin for historians with pre-saved, searchable links
+  - A browser plugin for historians with pre-saved searchable links
   - Project page: https://extension-historia.github.io/
   - Online demo version: https://extension-historia.github.io/
   - Flagship version Firefox: https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/statistics/?last=30
