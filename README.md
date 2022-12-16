@@ -2,6 +2,9 @@
 
 Historian, self-taught web developer, Linux user since childhood, language enthusiast.
 
+I mostly use HTML, CSS, JavaScript, JSON, PHP and generally SQL- and server-related technologies, handy libraries such as Bootstrap and JQuery; I am occasionally making changes to Python scripts.
+
+I'm currently interested in NoSQL technology.
 
 Ongoing projects:
 - Historia Quick Launcher (published)
@@ -11,8 +14,6 @@ Ongoing projects:
   - Flagship version Firefox: https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/statistics/?last=30
   - GitHub repository: https://github.com/Extension-Historia
 - Historical Matrix Online (still mainly unpublished)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linalerch)](https://github.com/linalerch/github-readme-stats)
 
 <!--
 **linalerch/linalerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
