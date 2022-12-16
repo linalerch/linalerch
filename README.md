@@ -2,6 +2,7 @@
 
 Historian, self-taught web developer, Linux user since childhood, language enthusiast.
 
+
 Ongoing projects:
 - Historia Quick Launcher (published)
   - A browser plugin for historians with pre-saved searchable links
@@ -11,6 +12,7 @@ Ongoing projects:
   - GitHub repository: https://github.com/Extension-Historia
 - Historical Matrix Online (still mainly unpublished)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linalerch)](https://github.com/linalerch/github-readme-stats)
 
 <!--
 **linalerch/linalerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
