@@ -2,10 +2,6 @@
 
 I am a historian, self-taught web developer, Linux user since childhood and a language enthusiast.
 
-I mostly use HTML, CSS, JavaScript, JSON, PHP and generally SQL- and server-related technologies, handy libraries such as Bootstrap and JQuery; I am occasionally making changes to Python scripts.
-
-I'm currently interested in NoSQL technology.
-
 Ongoing projects:
 - Historia Quick Launcher (published)
   - A browser plugin for historians with pre-saved searchable links
