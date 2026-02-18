@@ -5,7 +5,7 @@ I am a historian, self-taught web developer, Linux user since childhood and a la
 Ongoing projects:
 - Historia Quick Launcher (published)
   - A browser plugin for historians with pre-saved searchable links
-  - [Project page](https://extension-historia.github.io/))
+  - [Project page](https://extension-historia.github.io/)
   - [Online demo version](https://extension-historia.github.io/online-version/index.html)
   - [GitHub repository](https://github.com/Extension-Historia)
 - Historical Matrix Online (still mainly unpublished)
