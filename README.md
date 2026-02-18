@@ -6,7 +6,7 @@ Ongoing projects:
 - Historia Quick Launcher (published)
   - A browser plugin for historians with pre-saved searchable links
   - [Project page](https://extension-historia.github.io/)
-  - [Online demo version](https://extension-historia.github.io/online-version/index.html)
+  - [Online version](https://extension-historia.github.io/online-version/index.html)
   - [GitHub repository](https://github.com/Extension-Historia)
 - Historical Matrix Online
   - [Prototype](https://historical-matrix-online.github.io/environment-trade/index.html)
