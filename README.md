@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a historian, self-taught web developer, Linux user since childhood and a language enthusiast.
+I am a historian, web developer, Linux user since childhood and a language enthusiast.
 
 Ongoing projects:
 - Historia Quick Launcher (published)
