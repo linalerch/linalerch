@@ -8,7 +8,8 @@ Ongoing projects:
   - [Project page](https://extension-historia.github.io/)
   - [Online demo version](https://extension-historia.github.io/online-version/index.html)
   - [GitHub repository](https://github.com/Extension-Historia)
-- Historical Matrix Online (still mainly unpublished)
+- Historical Matrix Online
+  - [Prototype](https://historical-matrix-online.github.io/environment-trade/index.html)
 
 <!--
 **linalerch/linalerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
